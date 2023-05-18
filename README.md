@@ -4,7 +4,7 @@
 
 ## Descrição
 
-O **Habits** é um web app desenvolvido em React com Tailwindcss e TypeScript que permite aos usuários marcarem seus hábitos diários. Feito na NLW da Rocketseat. O aplicativo se conecta a uma API fornecida por outro projeto chamado Habits API, desenvolvido em Node.js. A API pode ser acessada através do seguinte repositório: [https://github.com/alexxcamargo1000/habits-api.com](https://github.com/alexxcamargo1000/habits-api.com).
+O **Habits** é um web app desenvolvido em React com Tailwindcss e TypeScript que permite aos usuários marcarem seus hábitos diários. Feito na NLW da Rocketseat. O aplicativo se conecta a uma API fornecida por outro projeto chamado Habits API, desenvolvido em Node.js. A API pode ser acessada através do seguinte repositório: [https://github.com/alexxcamargo1000/habits-api.com](https://github.com/Alexxcamargo1000/habits-api).
 
 ## Funcionalidades
 
